@@ -1,0 +1,5 @@
+classes= 30
+train  = data/BTSD1Data/testBTSD.txt
+valid  = data/BTSD1Data/trainBTSD.txt
+names = cfg/BTSD1.names
+backup = backup/
